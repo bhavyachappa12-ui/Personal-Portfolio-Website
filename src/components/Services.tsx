@@ -36,7 +36,7 @@ export const Services: React.FC = () => {
           <div>
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FAFAF8] border border-[#E5E5E5] text-xs font-mono text-[#7C3AED] mb-3">
               <Layout className="w-3.5 h-3.5" />
-              <span>05. SERVICES</span>
+              <span>SERVICES</span>
             </div>
             <h2 className="text-3xl sm:text-4xl font-extrabold text-[#171717] tracking-tight">
               Design Solutions I Offer

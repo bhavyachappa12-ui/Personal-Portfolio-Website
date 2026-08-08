@@ -34,7 +34,7 @@ export const About: React.FC = () => {
         <div className="mb-12">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FAFAF8] border border-[#E5E5E5] text-xs font-mono text-[#7C3AED] mb-3">
             <Compass className="w-3.5 h-3.5" />
-            <span>01. ABOUT ME</span>
+            <span>ABOUT ME</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-[#171717] tracking-tight">
             Designing with Purpose & Empathy
