@@ -17,8 +17,8 @@ export const Footer: React.FC = () => {
   ];
 
   const socialLinks = [
-    { name: 'LinkedIn', href: 'https://linkedin.com/in/chappa-bhavya', icon: Linkedin },
-    { name: 'GitHub', href: 'https://github.com/bhavyachappa', icon: Github },
+    { name: 'LinkedIn', href: 'https://www.linkedin.com/in/bhavya-chappa-3b900a373', icon: Linkedin },
+    { name: 'GitHub', href: 'https://github.com/bhavyachappa12-ui', icon: Github },
     { name: 'Figma', href: 'https://figma.com/@bhavyachappa', icon: Figma },
   ];
 
